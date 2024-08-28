@@ -11,6 +11,9 @@
     <SignAssembly>false</SignAssembly>
     <MauiRootDirectory>$(MSBuildThisFileDirectory)</MauiRootDirectory>
     <MauiSrcDirectory>$(MSBuildThisFileDirectory)src/</MauiSrcDirectory>
+    <IncludePreviousTfms>false</IncludePreviousTfms>
+    <IncludePreviousTfmsEssentials>false</IncludePreviousTfmsEssentials>
+    <IncludePreviousTfmsGraphics>false</IncludePreviousTfmsGraphics>
   </PropertyGroup>
 
   <PropertyGroup>
